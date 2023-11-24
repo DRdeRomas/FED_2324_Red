@@ -41,14 +41,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina  
+  
   <img src="readme-images/screenshot home 1.png" width="100px" alt="Eerste screenshot home pagina van Dolfinarium">
   <img src="readme-images/screenshot home 2.png" width="100px" alt="Tweede screenshot home pagina van Dolfinarium">
   <img src="readme-images/screenshot home 3.png" width="100px" alt="Derde screenshot home pagina van Dolfinarium">
   <img src="readme-images/screenshot home 4.png" width="100px" alt="Vierde screenshot home pagina van Dolfinarium">
   <img src="readme-images/screenshot navigatie.png" width="100px" alt="Screenshot van navigatie met dropdown taalopties">
+  De navigatie en de dropdown taalopties kunnen tegelijk "uitgeklapt" worden bij de mobiele versie.
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  "Ontdek het park"
+  Ontdek het park pagina
+  
   <img src="readme-images/screenshot ontdek 1.png" width="100px" alt="Eerste screenshot ontdek pagina van Dolfinarium">
   <img src="readme-images/screenshot ontdek 2.png" width="100px" alt="Tweede screenshot ontdek pagina van Dolfinarium">
   <img src="readme-images/screenshot ontdek 3.png" width="100px" alt="Derde screenshot ontdek pagina van Dolfinarium">
