@@ -40,12 +40,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Link naar de website: https://www.dolfinarium.nl/ 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/screenshot home 1.png" width="375px" alt="omschrijving van de pagina">
+  Home pagina  
+  <img src="readme-images/screenshot home 1.png" width="100px" alt="Eerste screenshot home pagina van Dolfinarium">
+  <img src="readme-images/screenshot home 2.png" width="100px" alt="Tweede screenshot home pagina van Dolfinarium">
+  <img src="readme-images/screenshot home 3.png" width="100px" alt="Derde screenshot home pagina van Dolfinarium">
+  <img src="readme-images/screenshot home 4.png" width="100px" alt="Vierde screenshot home pagina van Dolfinarium">
+  <img src="readme-images/screenshot home 5.png" width="100px" alt="Vijfde screenshot home pagina van Dolfinarium">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  "Ontdek het park"
+  <img src="readme-images/dummy-plaatje.jpg" width="100px" alt="omschrijving van de pagina">
  
 </details>
 
