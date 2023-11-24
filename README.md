@@ -45,11 +45,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/screenshot home 2.png" width="100px" alt="Tweede screenshot home pagina van Dolfinarium">
   <img src="readme-images/screenshot home 3.png" width="100px" alt="Derde screenshot home pagina van Dolfinarium">
   <img src="readme-images/screenshot home 4.png" width="100px" alt="Vierde screenshot home pagina van Dolfinarium">
-  <img src="readme-images/screenshot home 5.png" width="100px" alt="Vijfde screenshot home pagina van Dolfinarium">
+  <img src="readme-images/screenshot navigatie.png" width="100px" alt="Screenshot van navigatie met dropdown taalopties">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   "Ontdek het park"
-  <img src="readme-images/dummy-plaatje.jpg" width="100px" alt="omschrijving van de pagina">
+  <img src="readme-images/screenshot ontdek 1.png" width="100px" alt="Eerste screenshot ontdek pagina van Dolfinarium">
+  <img src="readme-images/screenshot ontdek 2.png" width="100px" alt="Tweede screenshot ontdek pagina van Dolfinarium">
+  <img src="readme-images/screenshot ontdek 3.png" width="100px" alt="Derde screenshot ontdek pagina van Dolfinarium">
+  <img src="readme-images/screenshot ontdek 4.png" width="100px" alt="Vierde screenshot ontdek pagina van Dolfinarium">
+  
  
 </details>
 
