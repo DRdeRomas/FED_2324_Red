@@ -120,11 +120,11 @@ Ctrl + Windows + N (Narrator instellingen)
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Safa      | Daan          | Red    | Chris        |
-  | CSS selectors            | Foto/Beeld schalen per formaat                | GIF/Filmpje responsive maken          | Animated sliders              |
-  | Beeld materiaal van website downloaden  | -             | -    | Scroll animaties    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Safa: CSS selectors en beeld materiaal van site downloaden
+Daan: Foto/Beeld schalen per format
+Red: GIF/Filmpjes responsief maken
+Chris: Animateed sliders en scroll animaties
+
 
 
   ### Verslag van meeting
