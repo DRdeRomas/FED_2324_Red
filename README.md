@@ -88,7 +88,6 @@ Ctrl + Windows + N (Narrator instellingen)
 </details>
 
 
-
 ## Breakdownschets (week 1)
 
 <details>
@@ -122,8 +121,8 @@ Ctrl + Windows + N (Narrator instellingen)
   samen met je groepje opstellen
 
   | Safa      | Daan          | Red    | Chris        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | CSS selectors            | Foto/Beeld schalen per formaat                | GIF/Filmpje responsive maken          | Animated sliders              |
+  | Beeld materiaal van website downloaden  | -             | -    | Scroll animaties    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
