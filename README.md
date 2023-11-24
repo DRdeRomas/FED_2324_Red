@@ -20,6 +20,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Je startniveau:
   Startniveau: Blauwe piste
+  Coderen vind ik in het algemeen heel erg moeilijk en uitdagend. Vaak raak ik in de war of wat ik aan het doen ben klopt of niet. Toch ben ik wel in staat om deze toch te leren.
 
   #### Je focus:
   Gekozen focus: Responsive website
@@ -37,7 +38,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   Mijn gekozen website is de Dolfinarium.
-  Link naar de website: https://www.dolfinarium.nl/ 
+  Link naar de website: https://www.dolfinarium.nl/.
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina  
@@ -65,10 +66,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
-  De toegankelijkheidstest hebben wij in de les uitgevoerd op de
+  De toegankelijkheidstest hebben wij in de tweede werkgroep gedaan. 
+
+  Ik heb geen verstand over hoe een screen reader werkt. Het was een nog een beetje uitzoeken hoe het in elkaar zit.
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+Heel moeilijk om te navigeren als je niet weet hoe je het moet gebruiken. 
+Belangrijk om de shortcut keys te leren.
+Ik ging de screen reader verkennen door de pijltjestoetsen te gebruiken om te navigeren.
+Mijn screen reader is automatisch ingesteld in het Engels.
+De Nederlandse taal moet ik nog zelf handmatig toevoegen.
+De screen reader leest de headings van mijn gekozen website niet.
+De screen reader leest onzichtbare elementen en veroorzaakt verwarring.
+Elke keer als op de linker pijltjestoets klikt, word ik gebracht vanaf het begin. Namelijk de navigatie bar.
+Ctrl + Windows + Enter (Start/Stop screenreader)
+Ctrl (Stop met screenreaden)
+Ctrl + Windows + N (Narrator instellingen)
+
 
 </details>
 
