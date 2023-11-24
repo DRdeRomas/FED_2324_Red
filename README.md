@@ -47,6 +47,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/screenshot home 3.png" width="100px" alt="Derde screenshot home pagina van Dolfinarium">
   <img src="readme-images/screenshot home 4.png" width="100px" alt="Vierde screenshot home pagina van Dolfinarium">
   <img src="readme-images/screenshot navigatie.png" width="100px" alt="Screenshot van navigatie met dropdown taalopties">
+  
   De navigatie en de dropdown taalopties kunnen tegelijk "uitgeklapt" worden bij de mobiele versie.
 
   #### Screenshot(s) van de tweede pagina (small screen):
@@ -57,15 +58,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/screenshot ontdek 3.png" width="100px" alt="Derde screenshot ontdek pagina van Dolfinarium">
   <img src="readme-images/screenshot ontdek 4.png" width="100px" alt="Vierde screenshot ontdek pagina van Dolfinarium">
   
- 
 </details>
-
 
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+  De toegankelijkheidstest hebben wij in de les uitgevoerd op de
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
