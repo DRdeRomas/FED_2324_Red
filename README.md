@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Startniveau: Blauwe piste = Coderen vind ik in het algemeen heel erg moeilijk en uitdagend. Vaak raak ik in de war of wat ik aan het doen ben klopt of niet. Toch ben ik wel bereid om te doen wat ik kan om meer te leren erover.
 
   #### Je focus:
-  Gekozen focus: Responsive website
+  Gekozen focus: Surface plane
  
 </details>
 
