@@ -120,7 +120,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <li>Safa: CSS selectors en beeld materiaal van site downloaden</li>
   <li>Daan: Foto/Beeld schalen per format</li>
   <li>Red: GIF/Filmpjes responsief maken</li>
-  <li>Chris: Animateed sliders en scroll animaties</li>
+  <li>Chris: Animated sliders en scroll animaties</li>
 </ul>
 
   ### Verslag van meeting
